@@ -10,15 +10,16 @@
             
               <a href="#" data-toggle="tooltip" data-placement="top" title="Linkedin";"><img src="./Images/linkedin.svg" alt=""></a></li>
             
-            <p class="menu">
-              <a href="">Home</a>
-              <a href="">Solutions</a>
-              <a href="">Products</a>
-              <a href="">Privacy Policy</a>
+            <p class="menu" style="justify-content:space-between">
+              <a href="index.php">Home</a>
+              <a href="solution.php">Solutions</a>
+              <a href="product.php">Products</a>
+              <a href="privacy.php">Privacy Policy</a>
             </p>
            
           </div>
         </div>
+        
         <div class="row mt-5">
           <div class="col-md-12 text-center">
             <p class="copyright">
@@ -31,6 +32,7 @@
     </footer>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/          GpGFF93hXpG5KkN" crossorigin="anonymous">
 </script>
+
 <script src="./js/jquery.min.js"></script>
     <script src="./js/popper.js"></script>
     <script src="./js/bootstrap.min.js"></script>

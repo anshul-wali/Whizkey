@@ -34,13 +34,13 @@
                 <li class="nav-item">
                     <a class="nav-link" href="tel:+919011021614">(91)-9011021614</a>
                 </li>
-                <li class="nav-item" >
+                <!--<li class="nav-item" >
                     <a class="nav-link" href="#"><img src="Images/cart.svg" style="Width: 30px;" alt="cart"></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#"><img src="Images/signin.svg" style="Width: 20px"></a>
                 </li>
-            </ul>  
+            </ul>  -->
                 <!--<div class="p-2">(91)-9011021614</div>
                 <div class="p-2"><img src="Images/cart.svg" style="Width: 35px;" alt="cart"> </div>
                 <div class="p-2"><img src="Images/signin.svg" style="Width: 27px;"></div>-->

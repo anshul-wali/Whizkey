@@ -1,0 +1,35 @@
+span {
+  display: flex;
+  flex-direction: row;
+  padding: 20px 0px 20px 0px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 150%;
+}
+span:after,
+span:before {
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: auto;
+  font-size: 35px;
+}
+span:after {
+  margin-left: 10px;
+}
+span:before {
+  margin-right: 10px;
+}
+
+.title {
+  font-size: 30px;
+  color: #7a952c;
+}
+
+.text {
+  text-align: center;
+  background-color: rgb(246, 246, 246);
+}
+
+.center {
+  padding: 2% 30% 0;
+}

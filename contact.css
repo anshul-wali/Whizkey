@@ -1,13 +1,11 @@
-.body {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+* {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .info {
-  width: 45%;
+  text-align: center;
+  margin: 50px;
 }
-
 .map {
   width: 45%;
 }
@@ -15,4 +13,30 @@
 .title {
   font-size: 30px;
   color: #7a952c;
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 50%;
+  position: relative;
+  height: 0;
+}
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 70%;
+  width: 100%;
+  position: absolute;
+}
+
+.info button {
+  background-color: #7a952c;
+  color: white;
+  border-radius: 25px;
+  border: #7a952c;
+  padding: 0.65em 2em;
+}
+
+.number {
+  color: #7a952c !important;
 }
