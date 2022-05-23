@@ -72,3 +72,15 @@ span:before {
   font-size: 35px;
   color: #7a952c;
 }
+
+@media only screen and (max-width: 480px) {
+  .main {
+    display: block;
+    margin: 0;
+    justify-content: center;
+  }
+
+  .card {
+    width: 350px;
+  }
+}

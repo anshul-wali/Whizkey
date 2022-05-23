@@ -4,7 +4,7 @@
 		<link rel="stylesheet" href="./css/ionicons.min.css">
 		<link rel="stylesheet" href="./css/style.css">
 <footer class="footer">
-      <div class="container">
+      <div class="container" >
         <div class="row justify-content-center">
           <div class="col-md-12 text-center">
             
