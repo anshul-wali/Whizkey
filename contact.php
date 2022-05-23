@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="contact.css">
+    
     <title>Document</title>
 </head>
 <body>
@@ -28,7 +29,7 @@
                 Sat Closed <br>
                 Sun Closed
              </p>
-        <button type="button">Drop us a line!</button>
+       <button id="myBtn">Drop us a line!</button>
     </div> 
 
 
@@ -46,6 +47,50 @@
         <img src="Images/review.jpg" class="image" alt="Responsive image"  >
     </div>
     <?php include_once('footer.php')?>
+<!-- <h4>form for drop a line</h4> -->
+    <div class="modal" id="myModal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <form action="" method="post" id="query">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="Name" size="100">
+                <label for="email">Email*</label>
+                <input type="text id="email" name="Email" size="50">
+                <label for="message">Message</label>
+                <input type="text" id="message" name="Message" size="1000">
+                <button type ="submit" form="query" value="submit">Send</button>
+                <a href="contact.php">Cancel</a>
+                
+            </form>
+        </div>
+    </div>    
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
 </body>
 </html>
 
