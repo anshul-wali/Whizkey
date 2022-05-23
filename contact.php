@@ -37,12 +37,16 @@
                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.8445729601112!2d73.80712821489233!3d18.490698187426432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfdad7143a4f%3A0xabd31c8f9e6eca9a!2sMarathwada%20Mitra%20Mandal&#39;s%20College%20of%20Engineering!5e0!3m2!1sen!2sin!4v1653134436368!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
     </div>
-</div>
-</div>
-<div style="background-color: grey max-height:10px;">
-        <!-- <h4>review</h4> -->
-        <img src="Images/review.jpg" class="img-fluid" alt="Responsive image" style="width:100%" >
+
+    <div class="review" >
+        <div class="text">
+            <h3>Reviews </h3>
+            <h5>Reviews Coming Soon</h5>
+        </div>
+        <img src="Images/review.jpg" class="image" alt="Responsive image"  >
     </div>
     <?php include_once('footer.php')?>
 </body>
 </html>
+
+<!-- img-fluid -->
