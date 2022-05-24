@@ -41,13 +41,17 @@
 
     <div class="review" >
         <div class="text">
-            <h3>Reviews </h3>
+            <h3>REVIEWS</h3>
             <h5>Reviews Coming Soon</h5>
         </div>
         <img src="Images/review.jpg" class="image" alt="Responsive image"  >
     </div>
+    <?php include_once('footer.php')?>
+
+
+
 <!-- <h4>form for drop a line</h4> -->
-    <div class="modal" id="myModal">
+<div class="modal" id="myModal">
         <div class="modal-content">
             <span class="close">&times;</span>
             <form action="" method="post" id="query">
