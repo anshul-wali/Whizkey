@@ -162,7 +162,7 @@
   <img src="./Images/logo.jpg" alt="">
 </div>
 </section>
-<?php include_once('footer.php')?>
+<?php include_once('footer1.php')?>
 <!--
 <footer class="footer">
 <div class="container">

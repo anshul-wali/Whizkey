@@ -17,6 +17,6 @@
     <div class="center">
         <h5 class="text">Privacy Policy coming soon</h5>
     </div >
-    <?php include_once('footer.php')?>
+    <?php include_once('footer1.php')?>
 </body>
 </html>
