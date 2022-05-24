@@ -4,14 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="contact1.css">
     
     <title>Document</title>
 </head>
 <body>
     <?php include_once('navbar.php') ?>
-    <span>   </span>
-    <span> </span>
+    <br>
+    <br>
+    <br>
+
     <span class="title">CONTACT US</span>
     <div class="info">
     <h4>Better yet, see us in person!</h4>

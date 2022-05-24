@@ -9,8 +9,9 @@
 </head>
 <body>
     <?php include_once('navbar.php') ?>
-    <span>   </span>
-    <span> </span>
+    <br>
+    <br>
+    <br>
     <span class="title">IoT PRODUCTS</span>
     
 <div class="main">

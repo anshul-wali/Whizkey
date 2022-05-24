@@ -20,7 +20,7 @@
             
             <a href="#" data-toggle="tooltip" data-placement="top" title="Linkedin";"><img src="./Images/linkedin.svg" alt=""></a></li>
             
-            <div class="menu">
+            <div class="menu flex-row">
               <p><a href="index.php">Home</a></p>
               <p><a href="solution.php">Solutions</a></p>
               <p><a href="product.php">Products</a></p>

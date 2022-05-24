@@ -11,8 +11,9 @@
 <body>
 <?php include_once('navbar.php') ?>
 
-<span>   </span>
-<span> </span>
+<br>
+<br>
+<br>
 <span class="title" style="font-size:35px;">SOME OF OUR SERVICES</span>
 
 <div class="container">

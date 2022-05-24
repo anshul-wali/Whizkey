@@ -10,9 +10,9 @@
 <body>
     <?php include_once('navbar.php') ?>
 
-    <h6>.</h6>
-    <h6>.</h6>
-    <h6>.</h6>
+    <br>
+    <br>
+    <br>
     <span class="title">PRIVACY POLICY</span>
     <div class="center">
         <h5 class="text">Privacy Policy coming soon</h5>

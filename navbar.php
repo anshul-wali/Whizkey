@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="./css/style.css">
 
 
-<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-transparent ">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light  bg-light">
         <a class="navbar-brand " href="#" ><img src="Images/logo.webp" style="width:70px" ></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
