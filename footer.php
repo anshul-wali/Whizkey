@@ -18,8 +18,6 @@
         <div class="row justify-content-center">
           <div class="col-md-12 text-center">
             
-            <a href="#" data-toggle="tooltip" data-placement="top" title="Linkedin";"><img src="./Images/linkedin.svg" alt=""></a></li>
-            
             <div class="menu">
               <p><a href="index.php">Home</a></p>
               <p><a href="solution.php">Solutions</a></p>

@@ -46,7 +46,6 @@
         </div>
         <img src="Images/review.jpg" class="image" alt="Responsive image"  >
     </div>
-    <?php include_once('footer.php')?>
 <!-- <h4>form for drop a line</h4> -->
     <div class="modal" id="myModal">
         <div class="modal-content">
@@ -91,7 +90,7 @@ window.onclick = function(event) {
   }
 }
 </script>
-<?php include_once('footer.php')?>
+<?php include_once('footer1.php')?>
 </body>
 </html>
 
