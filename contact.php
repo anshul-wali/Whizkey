@@ -46,7 +46,7 @@
         </div>
         <img src="Images/review.jpg" class="image" alt="Responsive image"  >
     </div>
-    <?php include_once('footer.php')?>
+    
 
 
 
