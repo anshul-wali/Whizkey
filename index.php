@@ -13,7 +13,7 @@
     <title>Whizkey Clone</title>
 </head>
 <body>
-  <?php include_once('navbar.php')?>
+  <?php include_once('navbar1.php')?>
 <!--<nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand " href="#" ><img src="Images/logo.webp" style="width:70px" ></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">

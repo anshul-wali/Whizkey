@@ -9,7 +9,7 @@
     <title>Solutions</title>
 </head>
 <body>
-<?php include_once('navbar.php') ?>
+<?php include_once('navbar1.php') ?>
 
 <br>
 <br>

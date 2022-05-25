@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="privacy1.css">
 </head>
 <body>
-    <?php include_once('navbar.php') ?>
+    <?php include_once('navbar1.php') ?>
 
     <br>
     <br>
