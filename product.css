@@ -30,7 +30,7 @@ span:before {
   display: flex;
   flex-wrap: wrap;
   /* border: 1px solid black; */
-  margin: 0 10em;
+  margin: 0 9em;
   justify-content: center;
 }
 
@@ -61,26 +61,39 @@ span:before {
   display: block;
   text-align: center;
   margin: 20px 50px;
+  text-decoration: none;
 }
 
-.card:hover {
-  transform: scale(1.03);
-  transition: all 0.5s ease;
-  cursor: pointer;
+@media (hover: hover) {
+  .card:hover {
+    transform: scale(1.03);
+    transition: all 0.5s ease;
+    cursor: pointer;
+  }
 }
 .title {
   font-size: 35px;
   color: #7a952c;
 }
 
+/* @media only screen and (max-width: 720px) {
+  .main {
+    margin: 0 5em;
+  }
+}*/
 @media only screen and (max-width: 480px) {
   .main {
-    display: block;
-    margin: 0;
-    justify-content: center;
+    /* display: block;
+    justify-content: center; */
+    margin: 0em 1em;
   }
 
   .card {
     width: 350px;
+  }
+  .card:hover {
+    transform: scale(1.03);
+    transition: all 0.5s ease;
+    cursor: pointer;
   }
 }

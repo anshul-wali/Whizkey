@@ -8,7 +8,7 @@
     <title>Products</title>
 </head>
 <body>
-    <?php include_once('navbar1.php') ?>
+    <?php include_once('navbar.php') ?>
     <br>
     <br>
     <br>
@@ -57,6 +57,6 @@
         <a href=""> Read More</a>
     </div>
 </div>
-    <?php include_once('footer1.php')?>
+    <?php include_once('footer.php')?>
 </body>
 </html>

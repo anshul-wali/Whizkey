@@ -4,21 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="contact1.css">
+    <link rel="stylesheet" href="contact.css">
     
     <title>Document</title>
 </head>
 <body>
-    <?php include_once('navbar1.php') ?>
+    <?php include_once('navbar.php') ?>
     <br>
     <br>
     <br>
-
     <span class="title">CONTACT US</span>
     <div class="info">
-    <h4>Better yet, see us in person!</h4>
+        <h3>Better yet, see us in person!</h3>
         <p>We love our customers, so feel free to visit during normal business hours</p>
-        <h4> Whiz Key (OPC) Pvt Ltd</h4>
+        <h3> Whiz Key (OPC) Pvt Ltd</h3>
         <p>Marathwada Mitra Mandal College Of Engineering, Pune, Maharashtra, India</p>
         <p class="number"><a class="nav-link" href="tel:+919011021614">(91)-9011021614</a></p>
         <h4>Hours</h4>
@@ -46,10 +45,10 @@
             <h3>REVIEWS</h3>
             <h5>Reviews Coming Soon</h5>
         </div>
-        <img src="Images/review.jpg" class="image" alt="Responsive image"  >
+        <!-- <img src="Images/review.jpg" class="image" alt="Responsive image"  > -->
     </div>
     
-
+    <?php include_once('footer.php')?>
 
 
 <!-- <h4>form for drop a line</h4> -->
@@ -96,7 +95,7 @@ window.onclick = function(event) {
   }
 }
 </script>
-<?php include_once('footer1.php')?>
+
 </body>
 </html>
 
